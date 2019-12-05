@@ -4,6 +4,10 @@ This is an include file and an associated gamedata specifically for infection-ba
 # How To Install
 The files are setup in the same directory structure as they would be for a regular sourcemod install, so simply download the files, copy the addons folder into your game server's main directory, and copy over any files (if necessary).
 
+1.1 Update (12-05-2019)
+------------------------------------------
+- Updated the include to use the new syntax for SM 1.10
+
 1.0 Initial Update (6-20-2018)
 ------------------------------------------
 - Added all relevant infection game data and associated offsets. At this time, these offsets are the working/correct offsets.
